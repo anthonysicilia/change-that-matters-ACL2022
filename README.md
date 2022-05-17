@@ -6,12 +6,12 @@ This research was conducted in conjunction with “PAC-Bayesian Domain Adaptatio
 
 Some of the code is shared across repositories as detailed below.
 
-## Code
+## Shared Code
 Code for summarizing raw results (e.g., producing regression plots) is available in this repository. Additional code for summarizing results as well as code for running all experiments is available in the shared repository [here](https://github.com/anthonysicilia/multiclass-domain-divergence). Further, a python package designed to compute the statistic we propose is available [here](https://github.com/anthonysicilia/classifier-divergence).
 
 Please consider citing one or both papers if you use this code.
 
-## Other Relevant Links
+## Relevant Links
 arXiv (ACL 2022): https://arxiv.org/abs/2203.11317
 
 arXiv (UAI 2022): Forthcoming
