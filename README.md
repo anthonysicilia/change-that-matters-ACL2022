@@ -11,6 +11,9 @@ Please consider citing one or both papers if you use this code.
 
 ## Other Relevant Links
 arXiv (ACL 2022): https://arxiv.org/abs/2203.11317
+
 arXiv (UAI 2022): Forthcoming
+
 shared code: https://github.com/anthonysicilia/multiclass-domain-divergence
+
 UAI code: https://github.com/anthonysicilia/pacbayes-adaptation-UAI2022
