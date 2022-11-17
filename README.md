@@ -21,3 +21,16 @@ shared code: https://github.com/anthonysicilia/multiclass-domain-divergence
 UAI code: https://github.com/anthonysicilia/pacbayes-adaptation-UAI2022
 
 package: https://github.com/anthonysicilia/classifier-divergence
+
+### Notable Versions
+Code was run using the following versions (some packages are only used by shared repos):
+ - python==3.7.4
+ - matplotlib==3.5.0
+ - numpy==1.21.2
+ - pandas==1.3.5
+ - scipy==1.7.3
+ - seaborn==0.12.1
+ - torch==1.10.2 (build py3.7_cuda10.2_cudnn7.6.5_0)
+ - tqdm==4.45.0
+ - pillow==8.4.0
+ - statsmodels==0.13.0
